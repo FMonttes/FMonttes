@@ -5,11 +5,12 @@ I love building scalable and efficient solutions to create impactful software.
 
 ## 🚀 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?FMonttes&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FMonttes&show_icons=true&theme=dracula)
 
 ## 📊 Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?FMontteso&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FMonttes&layout=compact&theme=dracula)
+
 
 ## 🌍 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-montes-478893302)  
